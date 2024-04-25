@@ -2,13 +2,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "HandyJSON",
+    name: "YLHandyJSON",
     products: [
-        .library(name: "HandyJSON", targets: ["HandyJSON"]),
+        .library(name: "YLHandyJSON", targets: ["YLHandyJSON"]),
     ],
     targets: [
         .target(
-            name: "HandyJSON",
+            name: "YLHandyJSON",
 	    dependencies: [],
 	    path: "Source"
         )

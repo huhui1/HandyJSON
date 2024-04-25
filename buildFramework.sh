@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PROJECT_NAME='HandyJSON'
+PROJECT_NAME='YLHandyJSON'
 SRCROOT='.'
 
 # Sets the target folders and the final framework product.
