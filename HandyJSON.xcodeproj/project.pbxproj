@@ -776,7 +776,7 @@
 					};
 					21520C5A1D3344A900F53111 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = QBMN2BBW3K;
+						DevelopmentTeam = 277V4G7N63;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
@@ -814,10 +814,9 @@
 			};
 			buildConfigurationList = 21520C3E1D3341B200F53111 /* Build configuration list for PBXProject "HandyJSON" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
@@ -1363,7 +1362,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: 业灿 许 (U997QZ92HC)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = QBMN2BBW3K;
+				DEVELOPMENT_TEAM = 277V4G7N63;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = HandyJSONDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -1383,7 +1382,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: 业灿 许 (U997QZ92HC)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = QBMN2BBW3K;
+				DEVELOPMENT_TEAM = 277V4G7N63;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = HandyJSONDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
