@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     s.author = {'huhui' => 'hh1448878671@qq.com'}
     s.license = 'Apache License 2.0'
     s.requires_arc = true
-    s.version = '5.0.8-yl'
+    s.version = '5.0.9-yl'
     s.homepage = "https://github.com/huhui1/HandyJSON"
     s.name = "YLHandyJSON"
 
@@ -15,8 +15,6 @@ Pod::Spec.new do |s|
 
     s.ios.deployment_target = '11.0'
     s.osx.deployment_target = '10.13'
-    s.watchos.deployment_target = '2.0'
-    s.tvos.deployment_target = '9.0'
 
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
 end
